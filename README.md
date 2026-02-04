@@ -18,7 +18,7 @@ Feel free to browse my repositories, and if you find something interesting, donâ
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Fd09?logo=TypeScript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/TypeScript)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
-[![React](https://img.shields.io/badge/NextJS-61DAFB?logo=react&logoColor=000)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/NextJS-0f0f0f?logo=nextdotjs&logoColor=fff)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
